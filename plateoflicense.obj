@@ -141,7 +141,7 @@ vt 0.859051 0.023368
 vt 0.859051 0.450472
 vt 0.848327 0.462157
 s 1
-usemtl materials/sprops/trans/plates/lp_california
+usemtl plate
 f 3/1/1 2/2/1 1/3/1
 f 6/4/1 5/5/1 4/6/1
 f 4/6/1 5/5/1 2/2/1
